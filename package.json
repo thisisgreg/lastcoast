@@ -4,7 +4,7 @@
   "description": "Last Coast: EP",
   "main": "index.html",
   "engines": {
-    "node": "5.5.4",
+    "node": "5.5.0",
     "npm": "3.3.12"
   },
   "scripts": {
