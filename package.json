@@ -9,7 +9,8 @@
   },
   "scripts": {
     "watch": "webpack -w",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack -p"
   },
   "author": "Yotam Mann & Kyle Phillips",
   "license": "Apache-2.0",
